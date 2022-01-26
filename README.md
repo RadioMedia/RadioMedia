@@ -1,2 +1,2 @@
-# radiomedia.github.io
+# RadioMedia.github.io
 RadioMedia is a research project
